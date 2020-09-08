@@ -1,6 +1,6 @@
 ### Oh, hi there 👋
 
-<h1 align="center"> я - tailsjs.</p>
+<h1 align="center"> я - tailsjs.</h1>
 
 
 - 🖥 я пишу на таком языке как <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a>.
