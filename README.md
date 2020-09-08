@@ -19,7 +19,8 @@
 #### Инструменты:
 <a href="https://heroku.com"><img height="32" src="https://github.com/tailsjs/tailsjs/raw/master/icons/Heroku.png"></a><a href="https://nodejs.org"><img height="32" src="https://github.com/tailsjs/tailsjs/raw/master/icons/nodejs.png"></a>
 
-<img src="https://github.com/tailsjs/tailsjs/blob/master/icons/carbon.png?raw=true" alt="Day" height="330" width="556"/><br>
+
 <a href="https://github.com/tailsjs"><img src="https://komarev.com/ghpvc/?username=tailsjs" alt="Хе)"/></a><br>
 <a href="https://vk.com/tailsjs"><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Хе)"/></a><br>
-<a href="https://vk.com/tailsjsundefined"><img src="https://github-readme-stats-red-sigma.vercel.app/api?username=tailsjs"/></a>
+<a href="https://vk.com/tailsjsundefined"><img src="https://github-readme-stats-red-sigma.vercel.app/api?username=tailsjs"/></a><br>
+<img src="https://github.com/tailsjs/tailsjs/blob/master/icons/carbon.png?raw=true" alt="Day" height="330" width="556"/>
