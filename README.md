@@ -4,7 +4,7 @@
 
 
 - 🖥 я пишу на таком языке как <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a>.
-- 🔭 щас работаю над <a href="https://vk.com/peribot"><img src="https://img.shields.io/badge/PeriBot-brightgreen?logo=vk&logoColor=white" alt="PeriBot"/></a> (ВРЕМЕННО НЕ РАБОТАЕТ), над <a href="http://tailsjs.ml/"><img src="https://img.shields.io/badge/tailsjs.ml-orange?logo=curl&logoColor=white"/></a>, над <a href="https://www.npmjs.com/package/ficbook-parser"><img src="https://img.shields.io/badge/ficbook--parser-red?logo=npm&logoColor=white"/></a>
+- 🔭 щас работаю над <a href="https://vk.com/peribot"><img src="https://img.shields.io/badge/PeriBot(DONTWORKTIMETLY)-red?logo=vk&logoColor=white" alt="PeriBot"/></a>, над <a href="http://tailsjs.ml/"><img src="https://img.shields.io/badge/tailsjs.ml-orange?logo=curl&logoColor=white"/></a>, над <a href="https://www.npmjs.com/package/ficbook-parser"><img src="https://img.shields.io/badge/ficbook--parser-red?logo=npm&logoColor=white"/></a>
 - 🌱 сейчас учу <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-blue?logo=php&logoColor=white"/></a>
 - 📫 мой вк: <a href="https://vk.com/peribot"><img src="https://img.shields.io/badge/Me-blue?logo=vk&logoColor=white" alt="Me!"/></a>
 - ⚡  мой ник образован от имени моего любимого персонажа (тейлза) и любимого языка программирования (жабаскрипт)
