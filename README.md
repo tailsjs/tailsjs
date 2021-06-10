@@ -4,9 +4,8 @@
 
 
 - 🖥 я пишу на таком языке как <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a>.
-- 🔭 щас работаю над <a href="https://vk.com/peribot"><img src="https://img.shields.io/badge/PeriBot(DONTWORKTIMETLY)-red?logo=vk&logoColor=white" alt="PeriBot"/></a>, над <a href="http://tailsjs.ml/"><img src="https://img.shields.io/badge/tailsjs.ml-orange?logo=curl&logoColor=white"/></a>, над <a href="https://www.npmjs.com/package/ficbook-parser"><img src="https://img.shields.io/badge/ficbook--parser-red?logo=npm&logoColor=white"/></a>
-- 🌱 сейчас учу <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-blue?logo=php&logoColor=white"/></a>
-- 📫 мой вк: <a href="https://vk.com/tailsjs"><img src="https://img.shields.io/badge/я-blue?logo=vk&logoColor=white" alt="Me!"/></a>
+- 🔭 щас работаю над <a href="https://bit.ly/3pgWPUc"><img src="https://img.shields.io/badge/бот-NeoBot-green" alt="NeoBot"/></a>, над <a href="http://tailsjs.ml/"><img src="https://img.shields.io/badge/tailsjs.ml-orange?logo=curl&logoColor=white"/></a>
+- 📫 мой дискорд: tailsjs#4621
 - ⚡  мой ник образован от имени моего любимого персонажа (тейлза) и любимого языка программирования (жабаскрипт)
 
 | 📖 [Репозитории](https://github.com/tailsjs?tab=repositories) |
