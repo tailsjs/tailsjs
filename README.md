@@ -22,4 +22,4 @@
 <a href="https://github.com/tailsjs"><img src="https://komarev.com/ghpvc/?username=tailsjs" alt="Хе)"/></a><br>
 <a href="https://vk.com/tailsjs"><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Хе)"/></a><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-<img src="https://github.com/tailsjs/tailsjs/blob/master/icons/carbon.png?raw=true" alt="Day" height="500" width="1532"/>
+<img src="https://github.com/tailsjs/tailsjs/blob/master/icons/carbon.png?raw=true" alt="Day" height="400" width="1532"/>
