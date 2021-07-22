@@ -8,9 +8,9 @@
 - 📫 мой тг: t.me/tailsjs
 - ⚡  мой ник образован от имени моего любимого персонажа (тейлза) и любимого языка программирования (жабаскрипт)
 
-| 📖 [Репозитории](https://github.com/tailsjs?tab=repositories) |
-|---------------------------| 
-| 😎 [Канал в тг](https://t.me/tjsblog) |
+| 📖 [Репозитории](https://github.com/tailsjs?tab=repositories) | 😎 [Канал в тг](https://t.me/tjsblog) |
+|---------------------------|---------------------------|
+
 
 #### Увлекаюсь:
 <a href="https://learn.javascript.ru/"><img height="32" src="https://github.com/tailsjs/tailsjs/raw/master/icons/JavaScript.png"></a><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BB%D0%B7_%C2%AB%D0%A2%D0%B5%D0%B9%D0%BB%D0%B7%C2%BB_%D0%9F%D1%80%D0%B0%D1%83%D1%8D%D1%80"><img height="32" src="https://github.com/tailsjs/tailsjs/raw/master/icons/tails.png"></a>
