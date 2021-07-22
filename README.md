@@ -5,8 +5,9 @@
 
 - 🖥 я пишу на таком языке как <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a>.
 - 🔭 учу Kotlin
-- 📫 мой тг: t.me/tailsjs
+- 📫 мой тг: https://t.me/tailsjs
 - ⚡  мой ник образован от имени моего любимого персонажа (тейлза) и любимого языка программирования (жабаскрипт)
+- 🎲 15 лет.
 
 | 📖 [Репозитории](https://github.com/tailsjs?tab=repositories) | 😎 [Канал в тг](https://t.me/tjsblog) |
 |---------------------------|---------------------------|
