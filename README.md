@@ -6,7 +6,7 @@
 - 🖥 я пишу на таких языках как <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a> и <a href="https://pythontutor.ru/"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white" alt="JavaScript"/></a>.
 - 🔭 щас работаю над <a href="https://github.com/SurgeBrawlTeam"><img src="https://img.shields.io/badge/серв-SurgeBrawl-red" alt="SurgeBrawl"/></a>
 - 📫 мой дискорд: tailsjs#4621
-- ⚡ 15 y.o
+- ⚡ 16 y.o
 
 | 📖 [Репозитории](https://github.com/tailsjs?tab=repositories) |
 |---------------------------| 
