@@ -1,5 +1,10 @@
 ### Oh, hi there 👋
 
+<video controls="controls" autoplay>
+  <source type="video/mp4" src="https://github.com/tailsjs/tailsjs/raw/master/hithere.mp4"></source>
+  <p>Your browser does not support the video element.</p>
+</video>
+
 <h1 align="center"> i'm tailsjs.</h1>
 
 
