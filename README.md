@@ -12,4 +12,6 @@
 |---------------------------| 
 | 😎 [russian tg channel](https://t.me/tjsblog) |
 
-https://user-images.githubusercontent.com/49571184/166325739-44367e49-a62e-42d3-9c15-6e8acdf221f5.mp4
+### What was the last track I listened to?
+
+<img src="https://shorturl.at/gvzEL"></img>
