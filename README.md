@@ -14,4 +14,4 @@
 
 ### What was the last track I listened to?
 
-<img src="https://shorturl.at/gvzEL"></img>
+<img src="https://github.com/tailsjs/tailsjs/raw/master/lastTrack.png"></img>
