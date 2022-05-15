@@ -11,7 +11,3 @@
 | 📖 [repos](https://github.com/tailsjs?tab=repositories) |
 |---------------------------| 
 | 😎 [russian tg channel](https://t.me/tjsblog) |
-
-### What was the last track I listened to?
-
-<img src="https://github.com/tailsjs/tailsjs/raw/master/lastTrack.png"></img>
