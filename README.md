@@ -7,7 +7,11 @@
 - 🔭 currently working on surgebrawl.
 - 📫 my discord: ``тейлс#0123``
 - ⚡ 16 y.o
+- 👨‍💻 reverse engineering brawl stars
+- ✔ indian tech support
 
 | 📖 [repos](https://github.com/tailsjs?tab=repositories) |
 |---------------------------| 
 | 😎 [russian tg channel](https://t.me/tjsblog) |
+
+[![VERY HALAL](https://user-images.githubusercontent.com/49571184/176561273-1e36df3c-8add-455f-b827-5f24e1fa0205.png)](https://www.youtube.com/watch?v=Azc7A9iKPYk)
