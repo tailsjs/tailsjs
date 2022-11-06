@@ -15,7 +15,6 @@
 | 😎 [russian tg channel](https://t.me/tjsblog) |
 
 [![VERY HALAL](https://user-images.githubusercontent.com/49571184/176561273-1e36df3c-8add-455f-b827-5f24e1fa0205.png)](https://www.youtube.com/watch?v=Azc7A9iKPYk)<br>
-<center>What i'm listening rn:<br></center>
 
 [![LastFM](https://github.com/tailsjs/tailsjs/raw/master/lastTrack.png)](https://www.last.fm/user/tailsjs)
 
