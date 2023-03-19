@@ -8,6 +8,7 @@
 - 📫 my discord: ``тейлс#0123``
 - ⚡ 17 y.o
 - 👨‍💻 reverse engineering brawl stars
+- 🌍 know 2 languages (russian, english)
 - ✔ indian tech support
 
 | 📖 [repos](https://github.com/tailsjs?tab=repositories) |
