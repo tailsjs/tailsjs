@@ -7,7 +7,7 @@
 - 🔭 currently working on tailium projects.
 - 📫 my discord: ``@tailiumcrypted``
 - ⚡ 17 y.o
-- 👨‍💻 reverse engineering brawl stars
+- 👨‍💻 smol reverse engineering dude
 - 🌍 know 2 languages (russian, english)
 - ✔ indian tech support
 
