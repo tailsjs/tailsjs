@@ -1,24 +1,57 @@
-### Oh, hi there 👋
+<h2 align="center">oh, hi there 👋</h1>
 
-<h1 align="center"> i'm tailsjs.</h1>
+i'm tailsjs, or `тейлс` 
 
+#### ```~> whoami```
+* typescript/javascript developer, kinda know python and c#
+* reverse engineer. kinda.
 
-- 🖥 currently i know two programming languages, named <a href="https://learn.javascript.ru/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript"/></a> and <a href="https://pythontutor.ru/"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white" alt="Python"/></a>, but I will be learning another one soon!
-- 🔭 currently working on tailium projects.
-- 📫 my discord: ``@tailiumcrypted``
-- ⚡ 19 y.o
-- 👨‍💻 smol reverse engineering dude
-- 🌍 know 2 languages (russian, english)
-- ✔ indian tech support
+#### ```~> projects```
+* **supercell**
+  * genebrawl
+    - brawl stars modification
+    - currently supported
+    * code review, developer
+  * surgeoffline
+    - offline mode for v28.189
+    - currently supported
+    * main developer
+  * coletteoffline
+    - offline mode for v29.270
+    - currently supported
+    * main developer
+* **telegram**
+  * chainy
+    - generating funny sentences based on markov chain
+    - currently supported
+    * main developer
+* **vk**
+  * lalka
+    - my very first project. just a bot packed with some dumbass entertainment commands. idk if anything left of it rn.
+    - closed
+* **misc**
+  * nggtk-api
+    - api wrapper for nggtk vk app
+    - currently supported<br>
+    
+`idk what i can put here. yep.`
 
-| 📖 [repos](https://github.com/tailsjs?tab=repositories) |
-|---------------------------| 
-| 😎 [russian tg channel](https://t.me/tjsblog) |
+#### ```~> contacts```
+* telegram: [tailsjs](https://t.me/tailsjs)
+* discord: [tailiumcrypted](https://discord.com/users/358212650326425601)
+* email: [me@tailsjs.fun](mailto:me@tailsjs.fun)
 
-[![VERY HALAL](https://user-images.githubusercontent.com/49571184/176561273-1e36df3c-8add-455f-b827-5f24e1fa0205.png)](https://www.youtube.com/watch?v=Azc7A9iKPYk)<br>
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=358212650326425601)
-
-Visits:
-
-![visits](https://count.getloli.com/get/@tailsjs?theme=gelbooru)
+<details>
+      <summary>huh?</summary>
+⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆⠄⠄⠄<br>
+⠄⠄⣼⢀⣿⣿⣿⣿⣏⡏⠄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢻⣿⣿⣿⣿⡆⠄⠄<br>
+⠄⠄⡟⣼⣿⣿⣿⣿⣿⠄⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⠄⠄<br>
+⠄⢰⠃⣿⣿⠿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⠿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⡄⠄<br>
+⠄⢸⢠⣿⣿⣧⡙⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠈⠛⢿⣿⣿⡇⠸⣿⡿⣸⡇⠄<br>
+⠄⠈⡆⣿⣿⣿⣿⣦⡙⠳⠄⠄⠄⠄⠄⠄⢀⣠⣤⣀⣈⠙⠃⠄⠿⢇⣿⡇⠄<br>
+⠄⠄⡇⢿⣿⣿⣿⣿⡇⠄⠄⠄⠄⠄⣠⣶⣿⣿⣿⣿⣿⣿⣷⣆⡀⣼⣿⡇⠄<br>
+⠄⠄⢹⡘⣿⣿⣿⢿⣷⡀⠄⢀⣴⣾⣟⠉⠉⠉⠉⣽⣿⣿⣿⣿⠇⢹⣿⠃⠄<br>
+⠄⠄⠄⢷⡘⢿⣿⣎⢻⣷⠰⣿⣿⣿⣿⣦⣀⣀⣴⣿⣿⣿⠟⢫⡾⢸⡟⠄.<br>
+⠄⠄⠄⠄⠻⣦⡙⠿⣧⠙⢷⠙⠻⠿⢿⡿⠿⠿⠛⠋⠉⠄⠂⠘⠁⠞⠄⠄⠄<br>
+⠄⠄⠄⠄⠄⠈⠙⠑⣠⣤⣴⡖⠄⠿⣋⣉⣉⡁⠄⢾⣦⠄⠄⠄⠄⠄⠄⠄⠄
+  </details>
