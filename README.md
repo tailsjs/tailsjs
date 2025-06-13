@@ -8,15 +8,15 @@ i'm tailsjs, or `тейлс`
 
 #### ```~> projects```
 * **supercell**
-  * genebrawl
+  * [genebrawl](https://t.me/gene_land)
     - brawl stars modification
     - currently supported
     * code review, developer
-  * surgeoffline
+  * [surgeoffline](https://t.me/surgebrawl)
     - offline mode for v28.189
     - currently supported
     * main developer
-  * coletteoffline
+  * [coletteoffline](https://t.me/coletteoffline)
     - offline mode for v29.270
     - currently supported
     * main developer
@@ -30,7 +30,7 @@ i'm tailsjs, or `тейлс`
     - my very first project. just a bot packed with some dumbass entertainment commands. idk if anything left of it rn.
     - closed
 * **misc**
-  * nggtk-api
+  * [nggtk-api](https://github.com/tailsjs/nggtk-api)
     - api wrapper for nggtk vk app
     - currently supported<br>
     
