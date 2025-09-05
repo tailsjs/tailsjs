@@ -32,7 +32,7 @@ i'm tailsjs, or `тейлс`
 * **misc**
   * [nggtk-api](https://github.com/tailsjs/nggtk-api)
     - api wrapper for nggtk vk app
-    - currently supported<br>
+    - not supported anymore<br>
     
 `idk what i can put here. yep.`
 
