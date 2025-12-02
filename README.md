@@ -9,7 +9,7 @@ i'm tailsjs, or `тейлс`
 #### ```~> projects```
 * **supercell**
   * [bsdbrawl](https://t.me/bsdbrawl)
-  * - brawl stars modification
+    - brawl stars modification
     - currently supported
     * code review, developer
   * [genebrawl](https://t.me/gene_land)
