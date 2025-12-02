@@ -8,9 +8,13 @@ i'm tailsjs, or `тейлс`
 
 #### ```~> projects```
 * **supercell**
+  * [bsdbrawl](https://t.me/bsdbrawl)
+  * - brawl stars modification
+    - currently supported
+    * code review, developer
   * [genebrawl](https://t.me/gene_land)
     - brawl stars modification
-    - currently supported
+    - closed
     * code review, developer
   * [surgeoffline](https://t.me/surgebrawl)
     - offline mode for v28.189
