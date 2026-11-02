@@ -43,7 +43,7 @@ i'm tailsjs, or `тейлс`
 #### ```~> contacts```
 * telegram: [tailsjs](https://t.me/tailsjs)
 * discord: [tailiumcrypted](https://discord.com/users/358212650326425601)
-* email: [me@tailsjs.space](mailto:me@tailsjs.space)
+* email: [me@tailsjs.fun](mailto:me@tailsjs.fun)
 
 <details>
       <summary>huh?</summary>
